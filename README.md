@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Muhammad Iqbal Makmur Al-Muniri 👋</h1>
-<p align="center">
-  <img src="./selfie-circle.jpeg" alt="Selfie" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
-</p>
-
----
 
 ### ✨ Welcome to My GitHub Profile!
 
